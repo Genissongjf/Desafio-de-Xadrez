@@ -78,7 +78,7 @@ int main() {
             printf("Movimento inválido. Tente novamente.\n");
         } else {
             printBoard();
-        }
+                }
     }
 
     return 0;
